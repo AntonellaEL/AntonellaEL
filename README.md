@@ -2,12 +2,12 @@
 
 ## Hi there 👋
 
- About Me
+ <h1>✍️About Me</h1>
 
-Always ready for new challenges:
-New career, before I was a hairdresser💇‍♀, pastry chef 👩‍🍳​ and now I want to chop code💻​.
-I am an Argentinean in 📍​Spain.
-I'm starting a Full Stack development bootcamp with Factoria F5 (850 hours).
+<p>Always ready for new challenges:</p>
+<p>New career, before I was a hairdresser💇‍♀, pastry chef 👩‍🍳​ and now I want to chop code💻​.</p>
+<p>I am an Argentinean in 📍​Spain.</p>
+<p>I'm starting a Full Stack development bootcamp with Factoria F5 (850 hours).</p>
 
 ## 🛠 Skills
 <img height=60px src="https://img.icons8.com/color/2x/jira.png"> <img height=60px src="https://img.icons8.com/color/2x/figma.png"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
