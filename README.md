@@ -1,22 +1,12 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F83679&background=FF4D2C00&random=false&width=435&height=51&lines=Welcome+to+my+GitHub+;my+name+is+Antonella;and+I+study+at+FactoriaF5." alt="Typing SVG" /></a>
+<h1 align="center">Hi 👋, I'm Triana Antonella Enriquez Ledesma</h1>
+<h3 align="center">A passionate Full Stack developer from Spain</h3>
 
-## Hi there 👋
+- 📫 How to reach me **antonellaenriquezledesma@gmail.com**
 
- <h1>✍️About Me</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/antonellael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antonellael" height="30" width="40" /></a>
+</p>
 
-<p>Always ready for new challenges:</p>
-<p>New career, before I was a hairdresser💇‍♀, pastry chef 👩‍🍳​ and now I want to chop code💻​.</p>
-<p>I am an Argentinean in 📍​Spain.</p>
-<p>I'm starting a Full Stack development bootcamp with Factoria F5 (850 hours).</p>
-
-## 🛠 Skills
-![github](https://github.com/user-attachments/assets/29cbc39a-41b5-49cb-ada3-54b0ccc0cbfa)
-![html-5](https://github.com/user-attachments/assets/4d79eeb1-e1e2-48fc-b006-c0c2c0bf5442)
-![css-3](https://github.com/user-attachments/assets/849a2135-677a-4229-984b-ccff368621e6)
-![js](https://github.com/user-attachments/assets/d158a48f-3c3e-42db-b230-5a4ac5022ff3)
-![jira (1)](https://github.com/user-attachments/assets/66b064e4-e776-47f6-9992-6799446ef839)
-![figma](https://github.com/user-attachments/assets/1d8121ec-9326-432b-be47-3bd259f39e31)
-![flojo](https://github.com/user-attachments/assets/d4681601-2876-4ee5-acf1-4d21fcec1c03)
-![java](https://github.com/user-attachments/assets/11933fcc-adab-4e68-95be-4761d40d1466)
-![mysql](https://github.com/user-attachments/assets/e84de20b-21ec-497d-b341-bae9927aabcb)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
